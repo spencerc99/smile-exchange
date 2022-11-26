@@ -1,0 +1,2 @@
+- [] need mapping from obsidian name to apple photos name
+- [] TODO: make general purpose export phtoos by keywords?
